@@ -20,7 +20,7 @@ This project was created to understand React fundamentals such as components, st
 ## Screenshots
 
 ### Empty State
-![Empty Todo](screenshots/todo-empty.png)
+![Empty Todo](screenshots/todo-empty-state.png)
 
 ### Adding Tasks
 ![Add Task](screenshots/todo-add-task.png)
